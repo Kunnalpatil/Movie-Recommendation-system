@@ -1,8 +1,7 @@
 # Movie-Recommendation-system : Project Overwiew
 * Content-Based movie recommendation system 
 * The data upto 2017 was taken from kaggle. 
-* Data for years 2018 and 2019 is scrapped from wikipedia.
-* Data is cleaned and preprocessed for use.
-* The recommendation system will be working on Cosine Similarity.
+* Names of movies launched from years 2018 to 2022 is scrapped from wikipedia and thier corresponding genres, overview amd movie id is gathered using tmdb api
+* Data is cleaned and preprocessed using various techniques for use 
+* The recommendation system is working on Cosine Similarity.
 
-### The project is not completely ready yet but have a look through the notebooks uploaded.
