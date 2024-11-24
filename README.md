@@ -19,8 +19,8 @@ This project implements a content-based movie recommendation system. It leverage
 * sklearn
 
 ## Usage
-1. Ensure that you have the necessary libraries installed (`pip install -r requirements.txt`).
+1. Ensure that you have the necessary libraries installed.
 2. Replace `'8265bd1679663a7ea12ac168da84d2e8'` in the code with your actual TMDB API key.
 3. Run the code to build the recommendation model.
-4. Use the `recommend()` function to get movie recommendations. For example:
+4. Use the `recommend()` function to get movie recommendations.
 
